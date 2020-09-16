@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Yu 俞立"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/LiYu-Lab-Tsinghua/LiYu-Lab-Tsinghua.github.io/blob/master/images/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Tsinghua University, Beijing, China"
   employer         :
