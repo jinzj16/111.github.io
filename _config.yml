@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Li Yu Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Li Yu"
+description              : &description "Migrasome Lab"
 url                      : https://liyu-lab-tsinghua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LiYu-Lab-Tsinghua/LiYu-Lab-Tsinghua.github.io"
