@@ -70,6 +70,8 @@ Lipids contributing to migrasome formation and stability
 2. low osmotic pressure-induced vesicles
 3. neoantigen delivery via cell-derived vesicles
 
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="40"/>
 </div>
