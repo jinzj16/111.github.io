@@ -10,7 +10,9 @@ redirect_from:
 PI
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="news_20191112_2" align=right hspace="5" vspace="5"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="news_20191112_2" align=right hspace="5" vspace="60"/>
+</div>
+<br clear="left" />
 
 ## Li Yu &nbsp;&nbsp; 俞 立
 #### 教授、博士生导师
@@ -32,6 +34,3 @@ PI
 2013年  荣获2013年度第六届谈家桢生命科学创新奖
 
 2016年  创新人才推进计划中青年科技创新领军人才
-
-</div>
-<br clear="left" />
