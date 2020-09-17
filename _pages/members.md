@@ -99,7 +99,7 @@ Lipids contributing to migrasome formation and stability
 Relationship between lysosome quality control and migracytosis
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="40"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="60"/>
 </div>
 
 <br>
