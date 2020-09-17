@@ -48,13 +48,51 @@ Postdoc
 
 Ph. D. student
 =====
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Haisha%20Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="40"/>
+</div>
+
+## Haisha Liang 梁海莎
+
+### Research interest
+
+Lipids contributing to migrasome formation and stability
+
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="40"/>
+</div>
+
+## Dongju Wang 王东锔
+
+### Research interest
+
+1. membranous biophysics of tetraspanin family
+2. low osmotic pressure-induced vesicles
+3. neoantigen delivery via cell-derived vesicles
+
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="40"/>
+</div>
+
+## Yuheng Liu 刘宇恒
+
+### Research interest
+
+1. in vivo gene lateral transfer via migracytosis
+2. mechanisms underlying RNA transport from cell body to migrasome
+3. spatial navigation through migrasomes
+4. bioinformatics
+
+### E-mail
+
+yh-liu16@outlook.com
 
 ---
 
 Research Assistant
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Li Yu" align=right hspace="50" vspace="40"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Mingli Zhu 祝明莉
@@ -64,8 +102,9 @@ Research Assistant
 1. RNA transfer via migracytosis
 2. local translation in migrasomes
 
-<br>
-<br>
+### E-mail
+
+mlzhu135@163.com
 
 ---
 
