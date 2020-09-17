@@ -92,6 +92,20 @@ Lipids contributing to migrasome formation and stability
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Di%20Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="50"/>
+</div>
+
+## Di Lu 陆娣
+
+### Research interests
+
+1. combinatory signals packaged into migrasomes during zebrafish embryogenesis
+2. progeria and ERphagy
+3. ER quality control and migracytosis
+
+<br>
+
 ## Qiushi Zhong 钟丘实
 
 ### Research interests
