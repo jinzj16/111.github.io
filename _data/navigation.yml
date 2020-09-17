@@ -6,14 +6,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "News"
-    url: /news/
+  - title: "Covers"
+    url: /covers/
+
+  - title: "Gallery"
+    url: /gallery/
 
   - title: "Members"
     url: /members/
 
-  - title: "Gallery"
-    url: /gallery/
+  - title: "News"
+    url: /news/
 
   - title: "Join us"
     url: /join-us/
