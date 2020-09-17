@@ -79,10 +79,10 @@ Lab Manager
 
 ---
 
-Rotating Ph. D. student
+Rotating Ph. D. Student
 =====
 
 ---
 
-Undergraduate student
+Undergraduate Student
 =====
