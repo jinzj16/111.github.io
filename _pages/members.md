@@ -9,18 +9,18 @@ redirect_from:
 
 <br>
 
-# PI
-
+PI
+=====
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="news_20191112_2" align=right hspace="5" vspace="100"/>
 </div>
 <br clear="left" />
 
 ## Li Yu &nbsp;&nbsp; 俞 立
-#### 教授、博士生导师
+### 教授、博士生导师
+### 国家“杰出青年基金”获得者、“长江学者奖励计划”特聘教授
 
-国家“杰出青年基金”获得者、“长江学者奖励计划”特聘教授
-
+#### Career
 1994 四川大学生物系微生物专业 学士
 
 2000 北京大学生命科学学院分子生物学专业 博士
