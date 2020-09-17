@@ -31,7 +31,7 @@ PI
 
 2008~至今 清华大学生命科学学院 教授
 
-### 荣誉、奖励及参加学术团体的情况：
+### 荣誉、奖励及参加学术团体的情况
 
 2012年“揭示营养匮乏引发细胞自噬的分子机制”荣获2012年度中国科学十大进展
 
@@ -44,6 +44,19 @@ Postdoc
 
 Ph. D. student
 =====
+
+Research Assistant
+=====
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Li Yu" align=right hspace="50" vspace="50"/>
+</div>
+
+## Mingli Zhu 祝明莉
+
+### Research interest
+
+1. RNA transfer via migracytosis
+2. local translation in migrasomes
 
 Alumni
 =====
