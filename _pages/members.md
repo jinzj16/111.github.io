@@ -58,7 +58,7 @@ Ph. D. student
 
 ## Haisha Liang 梁海莎
 
-### Research interest
+### Research interests
 
 Lipids contributing to migrasome formation and stability
 
@@ -68,7 +68,7 @@ Lipids contributing to migrasome formation and stability
 
 ## Dongju Wang 王东锔
 
-### Research interest
+### Research interests
 
 1. membranous biophysics of tetraspanin family
 2. low osmotic pressure-induced vesicles
@@ -82,7 +82,7 @@ Lipids contributing to migrasome formation and stability
 
 ## Yuheng Liu 刘宇恒
 
-### Research interest
+### Research interests
 
 1. in vivo gene lateral transfer via migracytosis
 2. mechanisms underlying RNA transport from cell body to migrasome
@@ -107,7 +107,7 @@ Research Assistant
 
 ## Mingli Zhu 祝明莉
 
-### Research interest
+### Research interests
 
 1. RNA transfer via migracytosis
 2. local translation in migrasomes
@@ -115,6 +115,8 @@ Research Assistant
 ### E-mail
 
 mlzhu135@163.com
+
+<br>
 
 ---
 
