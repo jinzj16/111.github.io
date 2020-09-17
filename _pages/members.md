@@ -43,8 +43,14 @@ PI
 
 ---
 
+<br>
+
 Postdoc
 =====
+
+## JHF
+
+<br>
 
 ---
 
@@ -52,6 +58,14 @@ Postdoc
 
 Ph. D. student
 =====
+
+## Tianlun Ding 丁天伦
+
+### Research interests
+
+1. phospholipid involved in migrasome formation and stability
+2. Honor of Kings :)
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Haisha%20Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="40"/>
 </div>
@@ -75,6 +89,12 @@ Lipids contributing to migrasome formation and stability
 3. neoantigen delivery via cell-derived vesicles
 
 <br>
+
+## Qiushi Zhong 钟丘实
+
+### Research interests
+
+Relationship between lysosome quality control and migracytosis
 
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="40"/>
