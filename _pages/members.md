@@ -64,7 +64,9 @@ Ph. D. student
 ### Research interests
 
 1. phospholipid involved in migrasome formation and stability
-2. Honor of Kings :)
+2. Honor of Kings &nbsp; ≧▽≦
+
+<br>
 
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Haisha%20Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="40"/>
@@ -99,6 +101,8 @@ Relationship between lysosome quality control and migracytosis
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="40"/>
 </div>
+
+<br>
 
 ## Yuheng Liu 刘宇恒
 
