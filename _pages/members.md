@@ -7,10 +7,12 @@ redirect_from:
   - /resume
 ---
 
-PI
-=====
+<br>
+
+# PI
+
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="news_20191112_2" align=right hspace="5" vspace="60"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="news_20191112_2" align=right hspace="5" vspace="100"/>
 </div>
 <br clear="left" />
 
