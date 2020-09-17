@@ -63,7 +63,7 @@ Ph. D. student
 
 ### Research interests
 
-1. phospholipid involved in migrasome formation and stability
+1. phospholipids and their binding proteins involved in migrasome formation and stability
 2. Honor of Kings &nbsp; ≧▽≦
 
 <br>
