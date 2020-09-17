@@ -24,7 +24,7 @@ author_profile: true
 
 9. Liang Ma#, Ying Li#, Junya Peng#, Danni Wu, Xiaoxin Zhao, Yitong Cui, Lilian Chen, Xiaojun Yan, Yanan Du, **Li Yu\***. Discovery of the migrasome, an organelle mediates release of cytoplasmic contents during cell migration. Cell Research.2015 Jan;25(1):24-38. (Cover Story) [ [Download](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Discovery%20of%20the%20migrasome%2C%20an%20organelle%20mediating%20release%20of%20cytoplasmic%20contents%20during%20cell%20migration.pdf) ]
 
-10. Rui Chen#, Yilong Zou, Dongxue Mao,Daxiao Sun, Guanguang Gao, Jingwen Shi,Xiaoqing Liu,Chen Zhu,Mingyu Yang,Wanlu Ye,Qianqian Hao, Ruiqiang Li and **Li Yu\***.The general amino acid control pathway regulates mTOR and autophagy during serum/glutamine starvation. Journal of Cell Biol.2014 Jul 21;206(2):173-82.
+10. Rui Chen#, Yilong Zou, Dongxue Mao,Daxiao Sun, Guanguang Gao, Jingwen Shi,Xiaoqing Liu,Chen Zhu,Mingyu Yang,Wanlu Ye,Qianqian Hao, Ruiqiang Li and **Li Yu\***.The general amino acid control pathway regulates mTOR and autophagy during serum/glutamine starvation. Journal of Cell Biol.2014 Jul 21;206(2):173-82. [ [Download](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/The%20general%20amino%20acid%20control%20pathway%20regulates%20mTOR%20and%20autophagy%20during%20serum%20or%20glutamine%20starvation.pdf) ]
 
 11. Yueguang Rong#, Mei Liu, Liang Ma, Wanqing Du, Hanshuo Zhang, Yuan Tian, Zhen Cao, Ying Li, He Ren, Chuanmao Zhang, Lin Li, She Chen, Jianzhong Xi\* & **Li Yu\*** .Clathrin and phosphatidylinositol 4,5-bisphosphate regulate autophagic lysosome reformation. Nature Cell Biology. 2012 Sep;14(9):924-34.
 
