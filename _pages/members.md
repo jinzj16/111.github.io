@@ -59,7 +59,7 @@ Ph. D. student
 Lipids contributing to migrasome formation and stability
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="40"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="50"/>
 </div>
 
 ## Dongju Wang 王东锔
