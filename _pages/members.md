@@ -12,9 +12,8 @@ redirect_from:
 PI
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="Li Yu" align=right hspace="50" vspace="100"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="Li Yu" align=right hspace="50" vspace="50"/>
 </div>
-<br clear="left" />
 
 ## Li Yu &nbsp;&nbsp; 俞 立
 
