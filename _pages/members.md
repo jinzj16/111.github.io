@@ -39,12 +39,16 @@ PI
 
 2016年  创新人才推进计划中青年科技创新领军人才
 
+<br>
+
 ---
 
 Postdoc
 =====
 
 ---
+
+<br>
 
 Ph. D. student
 =====
@@ -89,7 +93,11 @@ Lipids contributing to migrasome formation and stability
 
 yh-liu16@outlook.com
 
+<br>
+
 ---
+
+<br>
 
 Research Assistant
 =====
