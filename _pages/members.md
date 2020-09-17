@@ -12,7 +12,7 @@ redirect_from:
 PI
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="Li Yu" align=right hspace="50" vspace="50"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="Li Yu" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Li Yu &nbsp;&nbsp; 俞 立
@@ -54,7 +54,7 @@ Ph. D. student
 Research Assistant
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Li Yu" align=right hspace="50" vspace="50"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Li Yu" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Mingli Zhu 祝明莉
