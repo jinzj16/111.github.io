@@ -6,9 +6,9 @@ author_profile: true
 ---
 <br>
 
-1. Jiang D#, Jiang Z#, Lu D, Wang X, Liang H, Zhang J, Meng Y, Li Y, Wu D, Huang Y, Chen Y, Deng H, Wu Q, Xiong J, Meng A\*, **Yu L\***. Migrasomes provide regional cues for organ morphogenesis during zebrafish gastrulation Nat Cell Biol. 2019 Aug;21(8):966-977.  [ [Download]("https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Migrasomes-provide-regional-cues-for-organ-morphogenesis-during-zebrafish-gastrulation.pdf") ]
+1. Jiang D#, Jiang Z#, Lu D, Wang X, Liang H, Zhang J, Meng Y, Li Y, Wu D, Huang Y, Chen Y, Deng H, Wu Q, Xiong J, Meng A\*, **Yu L\***. Migrasomes provide regional cues for organ morphogenesis during zebrafish gastrulation Nat Cell Biol. 2019 Aug;21(8):966-977.
 
-2. Huang Y#, Zucker B#, Zhang S#, Elias S, Zhu Y, Chen H, Ding T, Li Y, Sun Y, Lou J, Kozlov MM\*, **Yu L\***. Migrasome formation is mediated by assembly of micron-scale tetraspanin macrodomains. Nat Cell Biol. 2019 Aug;21(8):991-1002. [ [Download]("") ]
+2. Huang Y#, Zucker B#, Zhang S#, Elias S, Zhu Y, Chen H, Ding T, Li Y, Sun Y, Lou J, Kozlov MM\*, **Yu L\***. Migrasome formation is mediated by assembly of micron-scale tetraspanin macrodomains. Nat Cell Biol. 2019 Aug;21(8):991-1002.
 
 3. Daxiao Sun#, Rongbo Wu#, Jingxiang Zheng,Pilong Li\* and **Li Yu\***. Polyubiquitin chain-induced p62 phase separation drives autophagic cargo segregation. Cell Research. 2018 Apr28;(4):405-415.
 
