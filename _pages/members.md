@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-
+---
 PI
 =====
 <div style="clear: both;" align="left">
@@ -39,11 +39,17 @@ PI
 
 2016年  创新人才推进计划中青年科技创新领军人才
 
+---
+
 Postdoc
 =====
 
+---
+
 Ph. D. student
 =====
+
+---
 
 Research Assistant
 =====
@@ -58,14 +64,22 @@ Research Assistant
 1. RNA transfer via migracytosis
 2. local translation in migrasomes
 
+---
+
 Alumni
 =====
+
+---
 
 Lab Manager
 =====
 
+---
+
 Rotating Ph. D. student
 =====
+
+---
 
 Undergraduate student
 =====
