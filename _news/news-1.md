@@ -1,5 +1,5 @@
 ---
-title: "Eventually, we have lab website!"
+title: "Eventually, we have the lab website!"
 excerpt: "2020-9-18"
 collection: news
 ---
