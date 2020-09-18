@@ -28,9 +28,7 @@ Our lab [discovered migrasome](https://www.nature.com/articles/cr2014135) in 201
 
 ---
 
-**share on**
-
-<br>
+&nbsp; **share on**
 
 <div class="sharethis-inline-share-buttons"></div>
 
