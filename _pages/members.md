@@ -76,7 +76,8 @@ Ph. D. student
 
 ### Research interests
 
-Lipids contributing to migrasome formation and stability
+1. lipids contributing to migrasome formation and stability
+2. cargo secretion via migracytosis
 
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="50"/>
@@ -158,8 +159,30 @@ mlzhu135@163.com
 
 ---
 
+<br>
+
 Alumni
 =====
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Daxiao%20Sun.jpeg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
+</div>
+
+## Daxiao Sun 孙大晓
+
+#### Postdoc in Max Planck institute of Molecular Cell Biology and Genetics (MPI-CBG) and Physics of life (PoL)-TU Dresden
+
+### Research interests
+
+1. phase separation on 2D surface
+2. assembly of tight junction
+3. cell polarity establishment in *C. elegans* zygote
+4. mechanism and cargo sorting of p62 mediated autophagy
+
+### E-mail
+
+dsun@mpi-cbg.de
+
+<br>
 
 ---
 
