@@ -48,8 +48,6 @@ PI
 Postdoc
 =====
 
-## JHF
-
 <br>
 
 ---
