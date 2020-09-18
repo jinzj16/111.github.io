@@ -58,7 +58,7 @@ Postdoc
 
 ### Research interests
 
-Novel transcription factor regulating unfolded protein response (UPR)
+Novel transcription factor modulating unfolded protein response (UPR)
 
 <br>
 <br>
