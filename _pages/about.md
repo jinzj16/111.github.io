@@ -18,4 +18,6 @@ Our lab [discovered migrasome](https://www.nature.com/articles/cr2014135) in 201
 
 <br>
 
-!["Red Dragon !!!"](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg "Migrasomes formed by a L929 cell")
+![](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg)
+
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Red Dragon !!!*
