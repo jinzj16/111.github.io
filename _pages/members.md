@@ -119,9 +119,9 @@ Kinase regulating migrasome formation
 
 xyh19@mails.tsinghua.edu.cn
 
-<br>
+<br><br>
 
-## Qiushi Zhong 钟丘实
+## Takami Shū 钟丘实 
 
 ### Research interests
 
