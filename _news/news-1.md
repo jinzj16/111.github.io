@@ -6,6 +6,4 @@ collection: news
 
 <br>
 
-![](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg)
-
-test
+Through lab website, we are able to share our up-to-date research progress about **migrasome biology** as well as engrave the happy days we experience in Yu Lab on the network FOREVER ~
