@@ -182,6 +182,8 @@ Research Assistant
 
 ## Ying Li 李英
 
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="40"/>
 </div>
