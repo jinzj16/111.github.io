@@ -105,6 +105,22 @@ Ph. D. student
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuhan%20Xiang.jpg" width="200" alt="Yuhan Xiang" align=right hspace="50" vspace="40"/>
+</div>
+
+## Yuhan Xiang 项雨涵
+
+### Research interests
+
+Kinase regulating migrasome formation
+
+### E-mail
+
+xyh19@mails.tsinghua.edu.cn
+
+<br>
+
 ## Qiushi Zhong 钟丘实
 
 ### Research interests
