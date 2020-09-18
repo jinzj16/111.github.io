@@ -79,7 +79,7 @@ Novel transcription factor modulating unfolded protein response (UPR)
 
 <br>
 
-Ph. D. student
+Ph. D. Student
 =====
 
 ## Tianlun Ding 丁天伦
