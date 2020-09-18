@@ -56,7 +56,7 @@ Postdoc
 
 #### Pay attention, young man (╬￣皿￣).jpg
 
-### Research Interests
+### Research interests
 
 Novel transcription factor regulating unfolded protein response (UPR)
 
