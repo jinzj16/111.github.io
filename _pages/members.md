@@ -48,6 +48,28 @@ PI
 Postdoc
 =====
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dachuan%20Zhang.jpg" width="200" alt="Dachuan Zhang" align=right hspace="50" vspace="30"/>
+</div>
+
+## Dachuan Zhang 张大川
+
+### Research Interests
+
+Novel transcription factor regulating unfolded protein response (UPR)
+
+<br>
+
+## Dong Jiang 姜东
+
+### Research Interests
+
+1. migrasome-carried signals for correct zebrafish embryogenesis
+2. roles of migrasomes in tumor metastasis
+3. biomarker of migracytosis in peripheral blood
+4. intravital imaging
+5. migrasomes and atherosclerosis
+
 <br>
 
 ---
