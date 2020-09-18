@@ -179,6 +179,9 @@ yh-liu16@outlook.com
 
 Research Assistant
 =====
+
+## Ying Li 李英
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="40"/>
 </div>
@@ -193,6 +196,10 @@ Research Assistant
 ### E-mail
 
 mlzhu135@163.com
+
+<br>
+
+## Shuyao Yin 殷舒瑶
 
 <br>
 
@@ -225,15 +232,31 @@ dsun@mpi-cbg.de
 
 ---
 
+<br>
+
 Lab Manager
 =====
 
+## Ting Peng 彭婷
+
+<br>
+
 ---
+
+<br>
 
 Rotating Ph. D. Student
 =====
+
+## Jing Sun 孙婧
+
+<br>
 
 ---
 
 Undergraduate Student
 =====
+
+<br>
+
+## Jiuling He 贺久凌
