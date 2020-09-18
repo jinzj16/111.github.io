@@ -182,6 +182,10 @@ Research Assistant
 
 ## Ying Li 李英
 
+### Research interests
+
+Sample preparation for electron microscopy
+
 <br>
 
 <div style="clear: both;" align="left">
