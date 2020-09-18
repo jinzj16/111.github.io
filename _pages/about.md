@@ -14,14 +14,10 @@ Our lab [discovered migrasome](https://www.nature.com/articles/cr2014135) in 201
 
 <br>
 
+<center>
 <video width="600" controls>
   <source src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.mp4" type="video/mp4">
   <object data="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.mp4" width="600">
   </object> 
 </video>
-
----
-
-## *Feather of Phoenix ~*
-
-![](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg)
+</center>

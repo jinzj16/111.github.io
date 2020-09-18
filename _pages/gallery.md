@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Beautiful photos are coming ..."
+title: "Inspiring experimental photos"
 permalink: /gallery/
 author_profile: true
 redirect_from:
