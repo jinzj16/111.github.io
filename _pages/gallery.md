@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Inspiring experimental photos"
+title: "Inspiring Experimental Photos"
 permalink: /gallery/
 author_profile: true
 redirect_from:
