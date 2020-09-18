@@ -10,7 +10,11 @@ redirect_from:
 
 <br>
 
-<img src = "https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.gif" width = 800 alt = "migracytosis">
+<video width="320" height="240" controls>
+  <source src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.mp4" type="video/mp4">
+  <object data="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.mp4" width="320" height="240">
+  </object> 
+</video>
 
 <br>
 
@@ -21,3 +25,7 @@ Our lab [discovered migrasome](https://www.nature.com/articles/cr2014135) in 201
 ![](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg)
 
 ## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Red Dragon !!!*
+
+<br>
+
+<img src = "https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.gif" width = 800 alt = "migracytosis">
