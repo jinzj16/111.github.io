@@ -349,13 +349,69 @@ sysuccjl@163.com
 Alumni
 =====
 
+## Yueguang Rong &nbsp;&nbsp; 荣岳光
+
+#### PI in Tongji Medical College, Huazhong University of Science & Technology
+
+<br>
+
+## Na Mi &nbsp;&nbsp; 米 娜
+
+#### PI in Xinjiang Medical University
+
+<br>
+
+## Cong Yi &nbsp;&nbsp; 易 聪
+
+#### PI in Zhejiang University
+
+<br>
+
+## Yanyang Wu &nbsp;&nbsp; 吴艳阳
+
+#### PI in Hunan Agricultural University
+
+<br>
+
 ## Yang Chen &nbsp;&nbsp; 陈 扬
 
-#### PI
+#### PI in Peking University Health Science Center
+
+<br>
+
+## Junya Peng &nbsp;&nbsp; 彭俊雅
+
+#### PI in Peking Union Medical College Hospital
+
+<br>
+
+## Jingjing Tong &nbsp;&nbsp; 仝晶晶
+
+#### Associate Professor in Central China Normal University
+
+<br>
+
+## Jing Zhu &nbsp;&nbsp; 朱 婧
+
+#### Research Assistant in ZhiPing Xie ( 谢志平 ) Lab, Shanghai Jiao Tong University
+
+<br>
+
+## Wenzhi Feng &nbsp;&nbsp; 冯文之
+
+#### Postdoc
+
+<br>
+
+## Liang Ma &nbsp;&nbsp; 马 亮
+
+#### Postdoc in Randy Schackmann Lab
 
 <br>
 
 ## Shaojin Zhang &nbsp;&nbsp; 张绍进
+
+#### Postdoc in Yi Yang ( 杨 弋 ) Lab, East China University of Science and Technology
 
 <br>
 
@@ -393,6 +449,28 @@ ER whorl
 ### Research interests
 
 Chemical screening of proteins affecting migrasome formation
+
+<br>
+
+## Jingxiang Zheng &nbsp;&nbsp; 郑竞翔
+
+#### WuXi AppTec
+
+<br>
+
+## Chong Wang &nbsp;&nbsp; 王 冲
+
+#### Director of Fujian Nanping Natural Resources Administration
+
+<br>
+
+## Xiaoxin Zhao &nbsp;&nbsp; 赵晓鑫
+
+#### Teacher in The High School Affiliated to Renmin University of China
+
+<br>
+
+## Meisheng Ma &nbsp;&nbsp; 马梅生
 
 <br>
 
