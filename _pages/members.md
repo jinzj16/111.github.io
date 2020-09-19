@@ -240,7 +240,7 @@ Relationship between lysosome quality control and migracytosis
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="80"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="60"/>
 </div>
 
 ## Yuheng Liu 刘宇恒
