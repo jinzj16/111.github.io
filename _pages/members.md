@@ -144,13 +144,17 @@ Ph. D. Student
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yizheng%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="0"/>
+</div>
+
 ## Yizheng Wang 王懿峥
 
 ### Research interests
 
 Type II migrasome
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## Cuifang Zhang 张翠芳
 
