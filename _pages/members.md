@@ -290,6 +290,10 @@ mlzhu135@163.com
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Shuyao%20Yin.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
+</div>
+
 ## Shuyao Yin 殷舒瑶
 
 ### Research interests
@@ -297,6 +301,7 @@ mlzhu135@163.com
 1. migrasome biology of chicken
 2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
 
+<br>
 <br>
 
 ---
