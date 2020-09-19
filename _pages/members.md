@@ -303,7 +303,7 @@ Visiting Scholar
 
 ## Lin Jiao 焦琳
 
-#### from West China Center of Medical Sciences, Sichuan University
+#### Postdoc from Department of Laboratory Medicine, Sichuan University West China Hospital 
 
 ### Research interests
 
