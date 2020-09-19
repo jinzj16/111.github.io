@@ -47,12 +47,12 @@ PI
 
 Postdoc
 =====
-## Wanqing Du 杜万清
+## Cuifang Zhang 张翠芳
 
 ### Research interests
 
-1. ER whorl
-2. whole genome screening about migrasome formation
+1. migrasome biology of chicken
+2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
 
 <br>
 
@@ -71,15 +71,12 @@ Novel transcription factor modulating unfolded protein response (UPR)
 <br>
 <br>
 
-## Dong Jiang 姜东
+## Wanqing Du 杜万清
 
-### Research Interests
+### Research interests
 
-1. migrasome-carried signals for correct zebrafish embryogenesis
-2. roles of migrasomes in tumor metastasis
-3. biomarker of migracytosis in peripheral blood
-4. intravital imaging
-5. migrasomes and atherosclerosis
+1. ER whorl
+2. whole genome screening about migrasome formation
 
 <br>
 
@@ -90,6 +87,18 @@ Novel transcription factor modulating unfolded protein response (UPR)
 1. membrane biophysics of migrasome formation
 2. tetraspanin family contributing to membrane repair
 3. nuclear import of tetraspanin family
+
+<br>
+
+## Dong Jiang 姜东
+
+### Research Interests
+
+1. migrasome-carried signals for correct zebrafish embryogenesis
+2. roles of migrasomes in tumor metastasis
+3. biomarker of migracytosis in peripheral blood
+4. intravital imaging
+5. migrasomes and atherosclerosis
 
 <br>
 
@@ -156,15 +165,6 @@ Type II migrasome
 
 <br><br><br><br><br><br><br>
 
-## Cuifang Zhang 张翠芳
-
-### Research interests
-
-1. migrasome biology of chicken
-2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
-
-<br>
-
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Di%20Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="40"/>
 </div>
@@ -195,15 +195,15 @@ Antigen presentation via migracytosis
 
 <br>
 
+## Yiyang Han 韩依杨
+
+<br>
+
 ## Minghui Shi 史明慧
 
 ### Research interests
 
 Migrasome biology of NK cell
-
-<br>
-
-## Yiyang Han 韩依杨
 
 <br>
 
