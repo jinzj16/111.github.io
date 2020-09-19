@@ -157,7 +157,7 @@ Type II migrasome
 ### Research interests
 
 1. migrasome biology of chicken
-2. angiogenesis and neutrophil migracytosis during chicken embrogenesis
+2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
 
 <br>
 
