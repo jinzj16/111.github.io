@@ -83,7 +83,7 @@ Novel transcription factor modulating unfolded protein response (UPR)
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuwei%20Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="30"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuwei%20Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="50"/>
 </div>
 
 ## Yuwei Huang &nbsp;&nbsp; 黄雨薇
