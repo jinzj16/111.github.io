@@ -320,7 +320,11 @@ Visiting Scholar
 ### Research interests
 
 1. EGFR and migrasome formation
-2. clinical diagnosis through migrasome-related biomarkers 
+2. clinical diagnosis through migrasome-related biomarkers
+
+### E-mail
+
+sysuccjl@163.com
 
 <br>
 
