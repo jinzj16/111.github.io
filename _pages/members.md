@@ -80,13 +80,21 @@ Novel transcription factor modulating unfolded protein response (UPR)
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuwei%20Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="30"/>
+</div>
+
 ## Yuwei Huang 黄雨薇
 
 ### Research interests
 
-1. membrane biophysics of migrasome formation
-2. tetraspanin family contributing to membrane repair
-3. nuclear import of tetraspanin family
+1. mechanism of migrasome formation
+2. membrane biology
+3. mechanobiology
+
+### E-mail
+
+huangyuwei@mail.tsinghua.edu.cn
 
 <br>
 
