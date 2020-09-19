@@ -47,6 +47,14 @@ PI
 
 Postdoc
 =====
+## Wanqing Du 杜万清
+
+### Research interests
+
+1. ER whorl
+2. whole genome screening about migrasome formation
+
+<br>
 
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dachuan%20Zhang.jpg" width="200" alt="Dachuan Zhang" align=right hspace="50" vspace="30"/>
@@ -144,6 +152,15 @@ Type II migrasome
 
 <br>
 
+## Cuifang Zhang 张翠芳
+
+### Research interests
+
+1. migrasome biology of chicken
+2. angiogenesis and neutrophil migracytosis during chicken embrogenesis
+
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Di%20Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="40"/>
 </div>
@@ -155,6 +172,30 @@ Type II migrasome
 1. combinatory signals packaged into migrasomes during zebrafish embryogenesis
 2. progeria and ERphagy
 3. ER quality control and migracytosis
+
+<br>
+
+## Yiqun Luo 罗逸群
+
+### Research interests
+
+Difference between apoptotic body and migrasome
+
+<br>
+
+## Xuan Wang 王暄
+
+### Research interests
+
+Antigen presentation via migracytosis
+
+<br>
+
+## Minghui Shi 史明慧
+
+### Research interests
+
+Migrasome biology of NK cell
 
 <br>
 
@@ -192,11 +233,15 @@ xyh19@mails.tsinghua.edu.cn
 
 Relationship between lysosome quality control and migracytosis
 
+<br>
+
+## Xiaopeng Li 李晓鹏
+
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="80"/>
 </div>
-
-<br>
 
 ## Yuheng Liu 刘宇恒
 
@@ -253,8 +298,37 @@ mlzhu135@163.com
 
 <br>
 
+Visiting Scholar
+=====
+
+## Lin Jiao 焦琳
+
+#### from West China Center of Medical Sciences, Sichuan University
+
+### Research interests
+
+1. EGFR and migrasome formation
+2. clinical diagnosis through migrasome-related biomarkers 
+
+<br>
+
+---
+
+<br>
+
 Alumni
 =====
+
+## Yang Chen 陈扬
+
+#### PI
+
+<br>
+
+## Shaojin Zhang 张绍进
+
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Daxiao%20Sun.jpeg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
 </div>
@@ -284,6 +358,14 @@ ER whorl
 
 <br>
 
+## Puzhong Lu 卢普忠
+
+### Research interests
+
+Chemical screening of proteins affecting migrasome formation
+
+<br>
+
 ---
 
 <br>
@@ -303,6 +385,14 @@ Rotating Ph. D. Student
 =====
 
 ## Jing Sun 孙婧
+
+<br>
+
+## Wenkang Zhao 赵文康
+
+### Research interests
+
+Whole genome screening about migrasome formation 
 
 <br>
 
