@@ -69,6 +69,10 @@ Novel transcription factor modulating unfolded protein response (UPR)
 <br>
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Wanqing%20Du.jpg" width="200" alt="Wanqing Du" align=right hspace="50" vspace="20"/>
+</div>
+
 ## Wanqing Du &nbsp;&nbsp; 杜万清
 
 ### Research interests
