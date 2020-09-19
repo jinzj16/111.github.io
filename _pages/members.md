@@ -292,6 +292,11 @@ mlzhu135@163.com
 
 ## Shuyao Yin 殷舒瑶
 
+### Research interests
+
+1. migrasome biology of chicken
+2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
+
 <br>
 
 ---
