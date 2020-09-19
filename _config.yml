@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Yu 俞立"
+  name             : "Li Yu  俞 立"
   avatar           : "profile.png"
   bio              : "Dr. Li Yu is a professor in the School of Life Sciences, Tsinghua University. He received his Ph.D. from Peking University in Beijing and completed his postdoctoral training at National Institutes of Health, Bethesda. Research in Yu laboratory focuses on migrasome, which was discovered by his group in 2014."
   location         : "Tsinghua University, Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "liyulab@mail.tsinghua.edu.cn"  
+  email            : "liyulab@tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
