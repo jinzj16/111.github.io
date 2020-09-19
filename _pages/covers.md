@@ -27,6 +27,10 @@ redirect_from:
 
 &nbsp; **share on**
 
+<left>
+
 <div class="sharethis-inline-share-buttons"></div>
+
+</left>
 
 <br>
