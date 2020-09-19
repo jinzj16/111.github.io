@@ -75,6 +75,26 @@ Novel transcription factor modulating unfolded protein response (UPR)
 
 <br>
 
+## Yuwei Huang 黄雨薇
+
+### Research interests
+
+1. membrane biophysics of migrasome formation
+2. tetraspanin family contributing to membrane repair
+3. nuclear import of tetraspanin family
+
+<br>
+
+## Jinqiang Yu 俞金强
+
+### Research interests
+
+1. migrasome biology of *Dictyostelium discoideum*
+2. membranous charge and migrasome formation
+3. migrasome biology of *Trichoplax adhaerens*
+
+<br>
+
 ---
 
 <br>
@@ -110,9 +130,17 @@ Ph. D. Student
 
 ### Research interests
 
-1. membranous biophysics of tetraspanin family
+1. membrane biophysics of tetraspanin family
 2. low osmotic pressure-induced vesicles
 3. neoantigen delivery via cell-derived vesicles
+
+<br>
+
+## Yizheng Wang 王懿峥
+
+### Research interests
+
+Type II migrasome
 
 <br>
 
@@ -127,6 +155,18 @@ Ph. D. Student
 1. combinatory signals packaged into migrasomes during zebrafish embryogenesis
 2. progeria and ERphagy
 3. ER quality control and migracytosis
+
+<br>
+
+## Yiyang Han 韩依杨
+
+<br>
+
+## Mingyi Gao 高明一
+
+### Research interests
+
+Imaging of immunocyte migracytosis
 
 <br>
 
@@ -233,6 +273,14 @@ Alumni
 ### E-mail
 
 dsun@mpi-cbg.de
+
+<br>
+
+## Fang Xu 徐芳
+
+### Research interests
+
+ER whorl
 
 <br>
 
