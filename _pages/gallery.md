@@ -7,8 +7,20 @@ redirect_from:
   - /resume
 ---
 
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f648f2c35d8020014989d48&product=inline-share-buttons" async="async"></script>
+
 <br>
 
 ## *Feather of Phoenix ~*
 
 ![](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg "Migracytosis of a L929 cell")
+
+<br>
+
+---
+
+&nbsp; **share on**
+
+<div class="sharethis-inline-share-buttons"></div>
+
+<br>
