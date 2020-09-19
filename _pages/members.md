@@ -309,6 +309,9 @@ mlzhu135@163.com
 
 Visiting Scholar
 =====
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Lin%20Jiao.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
+</div>
 
 ## Lin Jiao 焦琳
 
