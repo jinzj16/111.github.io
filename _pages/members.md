@@ -20,13 +20,17 @@ PI
 ### Mailing address	
 
 Room 239, new biology building
+
 Tsinghua University School of Medicine
+
 Beijing 100084
+
 China
 	
 ### Phone
 
 86 (10) 6279-2880 (office)
+
 86 (10) 6279-4552 (lab) 
 			
 ### E-mail
