@@ -24,12 +24,16 @@ Our laboratory has a satisfactory and creative scientific research environment a
 
 <br>
 
-# Requirement for the Position
+# Requirements for the Position
 
 >1. Professional requirements
+>
   >>a) have a biological or medical research experience
+  >>
   >>b) have obtained or will soon obtain a relevant doctorate
+  >>
   >>c) meet [the basic requirements for postdoctoral recruitment of Tsinghua University](http://postdoctor.tsinghua.edu.cn/column/sqjz)
+>
 >2. Those with relevant research experience in neurobiology, immunology, developmental biology, cell biology, etc. are preferred
 >3. Have a strong interest in scientific research, work hard, be honest, have a sense of responsibility, have good communication and coordination skills and teamwork spirit
 >4. Have the ability to independently engage in research project
