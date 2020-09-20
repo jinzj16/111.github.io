@@ -41,7 +41,7 @@ Our laboratory has a satisfactory and creative scientific research environment a
 
 >1. Have the standard benefits of Tsinghua University post-doctorate, and the salary needs negotiating
 >2. The laboratory will provide a first-class scientific research environment and sufficient development space, such as supporting applications for the Tsinghua University "Shuimu Scholar" program, Postdoctoral Fund of Tsinghua-Peking University Joint Center, Tsinghua University Postdoctoral Innovative Talent Support Program, etc.
->3. Recommend excellent postdoctoral fellows with research potential for PI position in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University Health Science Center and Zhejiang University.
+>3. Recommend excellent postdoctoral fellows with research potential for PI position in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University School of Basic Medical Sciences and Zhejiang University.
 
 # How to Apply
 
