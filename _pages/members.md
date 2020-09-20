@@ -103,6 +103,10 @@ huangyuwei@mail.tsinghua.edu.cn
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Jinqiang%20Yu.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="20"/>
+</div>
+
 ## Jinqiang Yu &nbsp;&nbsp; 俞金强
 
 ### Research interests
@@ -111,7 +115,7 @@ huangyuwei@mail.tsinghua.edu.cn
 2. membranous charge and migrasome formation
 3. migrasome biology of *Trichoplax adhaerens*
 
-<br>
+<br><br><br><br>
 
 ---
 
