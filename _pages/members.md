@@ -45,15 +45,6 @@ liyulab@tsinghua.edu.cn
 
 Postdoc
 =====
-## Cuifang Zhang &nbsp;&nbsp; 张翠芳
-
-### Research interests
-
-1. migrasome biology of chicken
-2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
-
-<br>
-
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dachuan%20Zhang.jpg" width="200" alt="Dachuan Zhang" align=right hspace="50" vspace="30"/>
 </div>
@@ -287,6 +278,15 @@ Sample preparation for electron microscopy
 
 <br>
 
+## Cuifang Zhang &nbsp;&nbsp; 张翠芳
+
+### Research interests
+
+1. migrasome biology of chicken
+2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
+
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="40"/>
 </div>
@@ -461,6 +461,12 @@ Chemical screening of proteins affecting migrasome formation
 ## Chong Wang &nbsp;&nbsp; 王 冲
 
 #### Director of Fujian Nanping Natural Resources Administration
+
+<br>
+
+## Mei Liu &nbsp;&nbsp; 刘 梅
+
+#### Civil Servant in Guangxi
 
 <br>
 
