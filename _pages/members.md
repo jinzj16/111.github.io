@@ -383,7 +383,7 @@ Alumni
 
 ### Research interests
 
-Molecular mechanism and physiological function of extracellular vesicle biogenesis
+Molecular mechanism and physiological function of extracellular vesicle
 
 ### E-mail
 
@@ -482,7 +482,7 @@ Chemical screening of proteins affecting migrasome formation
 
 ## Danni Wu &nbsp;&nbsp; 伍丹妮
 
-#### Civil Servant
+#### Civil Servant in Chongqing
 
 ### E-mail
 
