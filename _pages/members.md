@@ -91,7 +91,7 @@ huangyuwei@mail.tsinghua.edu.cn
 
 <br>
 
-## Dong Jiang &nbsp;&nbsp; 姜东
+## Dong Jiang &nbsp;&nbsp; 姜 东
 
 ### Research Interests
 
@@ -417,7 +417,7 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Liang Ma &nbsp;&nbsp; 马 亮
 
-#### Postdoc in Randy Schackmann Lab
+#### Postdoc in Randy Schekman Lab
 
 <br>
 
