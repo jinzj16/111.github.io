@@ -43,6 +43,8 @@ Our laboratory has a satisfactory and creative scientific research environment a
 >2. The laboratory will provide a first-class scientific research environment and sufficient development space, such as supporting applications for the Tsinghua University "Shuimu Scholar" program, Postdoctoral Fund of Tsinghua-Peking University Joint Center, Tsinghua University Postdoctoral Innovative Talent Support Program, etc.
 >3. Recommend excellent postdoctoral fellows with research potential for PI position in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University School of Basic Medical Sciences and Zhejiang University.
 
+<br>
+
 # How to Apply
 
 Send  your resume to liyulab@mail.tsinghua.edu.cn, and please indicate "postdoctoral candidate + name" in the subject of the email and application materials. Those who pass the preliminary review of the resume will be notified of specific interview matters by email.
