@@ -373,9 +373,21 @@ Alumni
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yang%20Chen.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="30"/>
+</div>
+
 ## Yang Chen &nbsp;&nbsp; 陈 扬
 
 #### PI in Peking University Health Science Center
+
+### Research interests
+
+Molecular mechanism and physiological function of extracellular vesicle biogenesis
+
+### E-mail
+
+chenyang1816185048@bjmu.edu.cn
 
 <br>
 
@@ -461,6 +473,20 @@ Chemical screening of proteins affecting migrasome formation
 ## Chong Wang &nbsp;&nbsp; 王 冲
 
 #### Director of Fujian Nanping Natural Resources Administration
+
+<br>
+
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Danni%20Wu.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
+</div>
+
+## Danni Wu &nbsp;&nbsp; 伍丹妮
+
+#### Civil Servant
+
+### E-mail
+
+danniwu1224@163.com
 
 <br>
 
