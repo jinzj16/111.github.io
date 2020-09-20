@@ -22,22 +22,26 @@ We are mainly dedicated to the study of the mechanism and function of migrasome.
 
 Our laboratory has a satisfactory and creative scientific research environment and atmosphere, and provides stable fundings. Researchers who are interested in studying migrasome biology are welcome to join.
 
+<br>
+
 # Requirement for the position
 
-1. Professional requirements
+>1. Professional requirements
   a) have a biological or medical research experience
   b) have obtained or will soon obtain a relevant doctorate
   c) meet [the basic requirements for postdoctoral recruitment of Tsinghua University](http://postdoctor.tsinghua.edu.cn/column/sqjz)
-2. Those with relevant research experience in neurobiology, immunology, developmental biology, cell biology, etc. are preferred
-3. Have a strong interest in scientific research, work hard, be honest, have a sense of responsibility, have good communication and coordination skills and teamwork spirit
-4. Have the ability to independently engage in research project
-5. Possess good academic ethics.
+>2. Those with relevant research experience in neurobiology, immunology, developmental biology, cell biology, etc. are preferred
+>3. Have a strong interest in scientific research, work hard, be honest, have a sense of responsibility, have good communication and coordination skills and teamwork spirit
+>4. Have the ability to independently engage in research project
+>5. Possess good academic ethics.
+
+<br>
 
 # Salary and Benefits
 
-1. Have the standard benefits of Tsinghua University post-doctorate, and the salary needs negotiating
-2. The laboratory will provide a first-class scientific research environment and sufficient development space, such as supporting applications for the Tsinghua University "Shuimu Scholar" program, Postdoctoral Fund of Tsinghua-Peking University Joint Center, Tsinghua University Postdoctoral Innovative Talent Support Program, etc.
-3. Recommend excellent postdoctoral fellows with research potential for PI position in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University Health Science Center and Zhejiang University.
+>1. Have the standard benefits of Tsinghua University post-doctorate, and the salary needs negotiating
+>2. The laboratory will provide a first-class scientific research environment and sufficient development space, such as supporting applications for the Tsinghua University "Shuimu Scholar" program, Postdoctoral Fund of Tsinghua-Peking University Joint Center, Tsinghua University Postdoctoral Innovative Talent Support Program, etc.
+>3. Recommend excellent postdoctoral fellows with research potential for PI position in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University Health Science Center and Zhejiang University.
 
 # How to Apply
 
