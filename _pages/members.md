@@ -232,7 +232,7 @@ xyh19@mails.tsinghua.edu.cn
 
 <br><br>
 
-## Takami Shū &nbsp;&nbsp; 钟丘实 
+## Takami Shū &nbsp;&nbsp; 鐘丘実 
 
 ### Research interests
 
