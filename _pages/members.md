@@ -379,7 +379,7 @@ Alumni
 
 ## Yang Chen &nbsp;&nbsp; 陈 扬
 
-#### PI in Peking University Health Science Center
+#### PI in Peking University School of Basic Medical Sciences
 
 ### Research interests
 
