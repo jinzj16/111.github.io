@@ -560,3 +560,20 @@ Undergraduate Student
 </div>
 
 ## Jiuling He &nbsp;&nbsp; 贺久凌
+
+#### Junior Student in Tsinghua University
+
+<br><br><br><br><br><br><br>
+
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Weihao%20Yan.jpg" width="200" alt="Weihao Yan" align=right hspace="50" vspace="40"/>
+</div>
+
+## Weihao Yan &nbsp;&nbsp; 阎伟豪
+
+#### Sophomore Student in Tsinghua University
+
+### E-mail
+
+yanwh18@mails.tsinghua.edu.cn
+
