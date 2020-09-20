@@ -96,10 +96,10 @@ huangyuwei@mail.tsinghua.edu.cn
 ### Research Interests
 
 1. migrasome-carried signals for correct zebrafish embryogenesis
-2. roles of migrasomes in tumor metastasis
+2. roles of migrasome in tumor metastasis
 3. biomarker of migracytosis in peripheral blood
 4. intravital imaging
-5. migrasomes and atherosclerosis
+5. migrasome and atherosclerosis
 
 <br>
 
