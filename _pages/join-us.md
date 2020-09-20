@@ -55,7 +55,7 @@ Send  your resume to liyulab@mail.tsinghua.edu.cn, and please indicate "postdoct
 
 ---
 
-&nbsp; **share on**
+&nbsp; **SHARE ON**
 
 <div class="sharethis-inline-share-buttons"></div>
 

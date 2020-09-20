@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-&nbsp; **share on**
+&nbsp; **SHARE ON**
 
 <div class="sharethis-inline-share-buttons"></div>
 
