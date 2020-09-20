@@ -1,6 +1,6 @@
 ---
 title: "How to stain migrasome"
-excerpt: "WGA is a probe for migrasomes | Cell Discovery"
+excerpt: "WGA is a probe for migrasomes &brvbar; Cell Discovery"
 collection: protocols
 ---
 
