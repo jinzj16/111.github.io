@@ -1,6 +1,6 @@
 ---
-title: "Sample preparation of migrasomes for electron microscopy"
-excerpt: "Exclusive recipe"
+title: "Sample preparation"
+excerpt: ""Exclusive recipe""
 collection: protocols
 ---
 
