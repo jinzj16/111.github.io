@@ -1,9 +1,12 @@
 ---
-title: "How to stain migrasome"
-excerpt: "WGA is a probe for migrasomes &brvbar; Cell Discovery"
+title: "Markers for quick migrasome detection"
+excerpt: "Identification of markers for migrasome detection &brvbar; Cell Discovery"
 collection: protocols
 ---
 
 <br>
 
->"By serendipity, we found that fluorescently tagged wheat-germ agglutinin (WGA), a lectin that binds specifically to sialic acid and N-acetyl-D-glucosamine2, labeled migrasomes in living cells. Moreover, florescence intensity analysis showed that the WGA signal on migrasomes was much higher than the WGA signal on retraction fibers, indicating that WGA prefers to bind to migrasomes. Finally, WGA effectively labeled migrasomes in all the cell lines we tested. Thus [fluorescently tagged WGA can be used as a probe for migrasomes](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/protocols/WGA%20is%20a%20probe%20for%20migrasomes.pdf)."
+>"TSPAN4 and integrin are known to be enriched on migrasomes. However, both proteins are also present on exosomes, making it difficult to distinguish the two structures biochemically based only on detection of these proteins. Imaging is the only approach for confirming the presence of migrasomes, but it is not compatible with most clinical samples."
+>
+>"Western blotting results showed that four proteins, NDST1 (bifunctionalheparan sulfate N-deacetylase/N-sulfotransferase 1),
+PIGK (phosphatidylinositol glycan anchor biosynthesis, class K), CPQ (carboxypeptidase Q) and EOGT (EGF domainspecific O-linked N-acetylglucosaminetransferase), were [enriched in migrasomes, but were absent or barely detectable in exosomes](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/protocols/Identification%20of%20markers%20for%20migrasome%20detection.pdf)."
