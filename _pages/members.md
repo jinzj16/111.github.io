@@ -579,6 +579,10 @@ yanwh18@mails.tsinghua.edu.cn
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Wanjing%20Shi.jpg" width="200" alt="Wanjing Shi" align=right hspace="50" vspace="30"/>
+</div>
+
 ## Wanjing Shi &nbsp;&nbsp; 史婉晶
 
 #### Junior Student in Tsinghua University
