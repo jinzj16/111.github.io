@@ -561,7 +561,7 @@ Undergraduate Student
 
 ## Jiuling He &nbsp;&nbsp; 贺久凌
 
-#### Junior Student in Tsinghua University
+#### Senior Student in Tsinghua University
 
 <br><br><br><br><br><br><br>
 
@@ -571,9 +571,19 @@ Undergraduate Student
 
 ## Weihao Yan &nbsp;&nbsp; 阎伟豪
 
-#### Sophomore Student in Tsinghua University
+#### Junior Student in Tsinghua University
 
 ### E-mail
 
 yanwh18@mails.tsinghua.edu.cn
+
+<br>
+
+## Wanjing Shi &nbsp;&nbsp; 史婉晶
+
+#### Junior Student in Tsinghua University
+
+### E-mail
+
+shiwj18@mails.tsinghua.edu.cn
 
