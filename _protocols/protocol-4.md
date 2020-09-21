@@ -1,5 +1,5 @@
 ---
-title: "EM Sample preparation of migrasome"
+title: "Sample preparation for EM"
 excerpt: ""Exclusive recipe""
 collection: protocols
 ---
