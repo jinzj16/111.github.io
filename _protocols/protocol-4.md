@@ -1,9 +1,8 @@
 ---
-title: "Sample preparation"
-excerpt: "Exclusive recipe"
+title: "Sample preparation of migrasomes for electron microscopy"
+excerpt: ""Exclusive recipe""
 collection: protocols
 ---
 
 <br>
 
-Write something for test ...
